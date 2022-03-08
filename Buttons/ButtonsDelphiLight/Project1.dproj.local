@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/06 01:42:18.000.982,=C:\Users\legha\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 01:42:50.000.697,C:\Users\legha\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\RAD Studio\MicaDelphiLight\MicaDelphiLight.dfm</Transaction>
+    <Transaction>2021/12/06 01:42:50.000.697,C:\Users\legha\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\RAD Studio\MicaDelphiLight\MicaDelphiLight.pas</Transaction>
+    <Transaction>2021/12/06 01:42:53.000.573,C:\Users\legha\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\RAD Studio\MicaDelphiLight\Project1.dproj</Transaction>
+    <Transaction>2021/12/22 01:22:20.000.551,E:\RAD Studio\Mica\MicadelphiDark\MicaDelphiLight.dfm=E:\RAD Studio\Mica\MicadelphiDark\MicaDelphiDark.dfm</Transaction>
+    <Transaction>2021/12/22 01:22:20.000.551,E:\RAD Studio\Mica\MicadelphiDark\MicaDelphiLight.pas=E:\RAD Studio\Mica\MicadelphiDark\MicaDelphiDark.pas</Transaction>
+    <Transaction>2022/03/08 04:12:03.000.039,E:\RAD Studio\Buttons\ButtonsDelphiDark\Windo11ButtonsDelphiDark.dfm=E:\RAD Studio\Buttons\ButtonsDelphiDark\MicaDelphiDark.dfm</Transaction>
+    <Transaction>2022/03/08 04:12:03.000.039,E:\RAD Studio\Buttons\ButtonsDelphiDark\Windo11ButtonsDelphiDark.pas=E:\RAD Studio\Buttons\ButtonsDelphiDark\MicaDelphiDark.pas</Transaction>
+    <Transaction>2022/03/09 03:29:13.645,E:\RAD Studio\Buttons\ButtonsDelphiLight\Windo11ButtonsDelphiLight.pas=E:\RAD Studio\Buttons\ButtonsDelphiLight\Windo11ButtonsDelphiDark.pas</Transaction>
+    <Transaction>2022/03/09 03:29:13.645,E:\RAD Studio\Buttons\ButtonsDelphiLight\Windo11ButtonsDelphiLight.dfm=E:\RAD Studio\Buttons\ButtonsDelphiLight\Windo11ButtonsDelphiDark.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
